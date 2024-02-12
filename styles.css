@@ -1,0 +1,91 @@
+body {
+    background-color: #f7f7f7;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+    border: 2px solid #e91e63;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #e91e63;
+}
+
+/* Define styles for the "Yes" button */
+#yes-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 20px 40px; /* Twice the size of the original */
+    text-decoration: none;
+    border-radius: 20px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+/* Define styles for the "Think again" button */
+#no-button {
+    background-color: #f44336;
+    color: white;
+    padding: 20px 40px; /* Twice the size of the original */
+    text-decoration: none;
+    border-radius: 20px;
+    display: inline-block;
+}
+body {
+    background-color: #fce4ec; /* Light pink */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #e91e63; /* Pink */
+}
+
+/* Define styles for the "Yes" button */
+#yes-button {
+    background-color: #ff80ab; /* Pink */
+    color: white;
+    padding: 20px 40px;
+    text-decoration: none;
+    border-radius: 30px; /* Rounded corners */
+    display: inline-block;
+    margin-right: 20px;
+    border: 2px solid #ff80ab; /* Pink border */
+    font-size: 18px; /* Larger font size */
+    transition: background-color 0.3s; /* Smooth color transition */
+}
+
+#yes-button:hover {
+    background-color: #ff4081; /* Darker pink on hover */
+}
+
+/* Define styles for the "Are you sure?" button */
+#no-button {
+    background-color: #ff80ab; /* Pink */
+    color: white;
+    padding: 20px 40px;
+    text-decoration: none;
+    border-radius: 30px; /* Rounded corners */
+    border: 2px solid #ff80ab; /* Pink border */
+    display: inline-block;
+    font-size: 18px; /* Larger font size */
+    transition: background-color 0.3s; /* Smooth color transition */
+}
+
+#no-button:hover {
+    background-color: #ff4081; /* Darker pink on hover */
+}
+/* Example styles for the footer */
+
